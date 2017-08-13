@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "886617720108",
+    "firebase_url": "https://tes1speed2.firebaseio.com",
+    "project_id": "tes1speed2",
+    "storage_bucket": "tes1speed2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886617720108:android:8b2b6f8a115a08af",
+        "android_client_info": {
+          "package_name": "org.nativescript.slow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "886617720108-6a6c4qcpba5pk09ujhm8dh1b0n8a5k4v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCneKrMd7bFqk0wtedrOBjCutD58gXOeW4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886617720108:android:efcbaf538b946e3f",
+        "android_client_info": {
+          "package_name": "org.nativescript.fast"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "886617720108-6a6c4qcpba5pk09ujhm8dh1b0n8a5k4v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCneKrMd7bFqk0wtedrOBjCutD58gXOeW4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,11 @@
+.DS_Store
+*/**/.DS_Store
+*.css
+*.js
+*.js.map
+*.log
+hooks
+node_modules
+platforms/android
+platforms/ios
+!webpack.config.js
